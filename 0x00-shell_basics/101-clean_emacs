@@ -1,2 +1,2 @@
-[D[D[D[D[D!/bin/bash
-rm *~
+#!/bin/bash
+rm *~
